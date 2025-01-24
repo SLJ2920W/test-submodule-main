@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = C:\\dev\\work\\test\\back
+[submodule "frontend"]
+	path = frontend
+	url = C:\\dev\\work\\test\\frontend
